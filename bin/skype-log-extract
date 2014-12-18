@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'skype-log-extract'
+
+SkypeLogExtract::CLI.run!
